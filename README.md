@@ -6,10 +6,11 @@ The purpose of this project is to help Dana to become familiar with JavaScript c
 
 
 ## Results
- Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
- 
-For a viewer of this new webpage, the data can be filtered by entering criteria that they are interested in the designated location. Based on the picture below, readers can filter the table based on date, city, state, country and shape. 
+ For a viewer of this new webpage, the data can be filtered by entering criteria that they are interested in the designated box. Based on the picture below, readers can filter the table based on date, city, state, country and shape. After entering the input, the output table will be updated after a click anywhere on the webpage.
 
 ![](/images/1.png)
 
 ## Summary
+Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+The main drawback of this new design in my opinion is that there is no filter button to view the results.
+One recommendation is to add a filter button to make the webpage more user-friendly. In addition, having a dropdown list to know the different options for each filter would be a nice feature. 
