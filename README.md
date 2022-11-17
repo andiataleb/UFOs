@@ -8,7 +8,7 @@ The purpose of this project is to help Dana to become familiar with JavaScript c
 ## Results
  For a viewer of this new webpage, the data can be filtered by entering criteria that they are interested in the designated box. Based on the picture below, readers can filter the table based on date, city, state, country and shape. After entering the input, the output table will be updated after a click anywhere on the webpage.
 
-![](/images/1.png)
+![](/Images/1.png)
 
 ## Summary
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
